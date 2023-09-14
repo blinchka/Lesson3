@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FavoriteBook</string>
+    <string name="edittext_hint"><font size="10">"Введите название  Вашей любимой книги"</font></string>
+</resources>

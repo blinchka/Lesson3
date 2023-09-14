@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleFragmentApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <color name="light_green">#90EE90</color>
+    <color name="blue_wave">#008B8B</color>
+
+</resources>
